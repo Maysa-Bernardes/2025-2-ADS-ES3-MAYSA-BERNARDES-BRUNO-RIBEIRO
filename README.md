@@ -16,3 +16,5 @@ Todos os artefatos produzidos estarão diretamente relacionados ao **Trabalho de
 **Instituição:** FATEC Franca / SP
 
 ## 📂 Lista de artefatos
+
+- [Wireframes](./artefatos/wireframes/)
