@@ -18,3 +18,7 @@ Todos os artefatos produzidos estarão diretamente relacionados ao **Trabalho de
 ## 📂 Lista de artefatos
 
 - [Wireframes](./artefatos/wireframes/)
+- [Missão, Visão e Valor](./artefatos/missao_visao_valor/)
+- [Elicitação de Requisitos](./artefatos/elicitacao_requisitos/)
+- [Matriz SWOT](./artefatos/SWOT/)
+- [Matriz 5W2H](./artefatos/5W2H/)
