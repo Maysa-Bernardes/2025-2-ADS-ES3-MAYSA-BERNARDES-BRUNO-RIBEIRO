@@ -22,4 +22,4 @@ Todos os artefatos produzidos estarão diretamente relacionados ao **Trabalho de
 - [Elicitação de Requisitos](./artefatos/elicitacao_requisitos/)
 - [Matriz SWOT](./artefatos/SWOT/)
 - [Matriz 5W2H](./artefatos/5W2H/)
-- [Script do BPMN](./artefatos/Script/)
+- [Script do BPMN](./artefatos/script_bpmn/)
