@@ -25,3 +25,4 @@ Todos os artefatos produzidos estarão diretamente relacionados ao **Trabalho de
 - [Script do BPMN](./artefatos/script_bpmn/)
 - [BPMN](./artefatos/bpmn/)
 - [Documento de Requisitos Funcionais e Não Funcionais](./artefatos/documento_requisitos/)
+- [Termo de Abertura de Projeto (TAP)](./artefatos/TAP/)
