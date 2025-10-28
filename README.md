@@ -26,3 +26,4 @@ Todos os artefatos produzidos estarão diretamente relacionados ao **Trabalho de
 - [BPMN](./artefatos/bpmn/)
 - [Documento de Requisitos Funcionais e Não Funcionais](./artefatos/documento_requisitos/)
 - [Termo de Abertura de Projeto (TAP)](./artefatos/TAP/)
+- [Estrutura Analítica do Projeto (EAP)](./artefatos/EAP/)
