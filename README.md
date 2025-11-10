@@ -27,3 +27,4 @@ Todos os artefatos produzidos estarão diretamente relacionados ao **Trabalho de
 - [Documento de Requisitos Funcionais e Não Funcionais](./artefatos/documento_requisitos/)
 - [Termo de Abertura de Projeto (TAP)](./artefatos/TAP/)
 - [Estrutura Analítica do Projeto (EAP)](./artefatos/EAP/)
+- [Diagrama de Casos de Uso](./artefatos/diagrama_casos_de_uso/)
