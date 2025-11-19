@@ -31,3 +31,5 @@ Todos os artefatos produzidos estarão diretamente relacionados ao **Trabalho de
 - [Diagrama de Atividades](./artefatos/diagrama_de_atividades/)
 - [Diagrama de Sequência](./artefatos/diagrama_de_sequencia/)
 - [Diagrama de Máquina de Estados](./artefatos/diagrama_maquina_estados/)
+- [Diagrama de Classes](./artefatos/diagrama_de_classes/)
+- [Métricas](./artefatos/metricas/)
