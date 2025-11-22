@@ -28,6 +28,7 @@ Todos os artefatos produzidos estarão diretamente relacionados ao **Trabalho de
 - [Termo de Abertura de Projeto (TAP)](./artefatos/TAP/)
 - [Estrutura Analítica do Projeto (EAP)](./artefatos/EAP/)
 - [Diagrama de Casos de Uso](./artefatos/diagrama_casos_de_uso/)
+- [Documentação de Casos de Uso](./artefatos/documentacao_casos_uso/)
 - [Diagrama de Atividades](./artefatos/diagrama_de_atividades/)
 - [Diagrama de Sequência](./artefatos/diagrama_de_sequencia/)
 - [Diagrama de Máquina de Estados](./artefatos/diagrama_maquina_estados/)
